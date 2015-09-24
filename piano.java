@@ -4,10 +4,11 @@
  * and open the template in the editor.
  */
 package Ejercicios;
-
 /**
- *
- * @author juanma
+ * Intergrantes: Alexis Maturano Melgosa G1546004
+ *               Jorge Meza Leal G1546008
+ *               Juan Manuel fernandez Alvarez G1546001 
+ *  Fecha: 24 sept
  */
 public class piano {
     public static void main(String[] args) {
